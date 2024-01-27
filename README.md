@@ -1,1 +1,1 @@
-Here are the project writed in Cmput 466 course
+Here is the project written in Cmput 466 course
